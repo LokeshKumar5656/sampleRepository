@@ -8,6 +8,4 @@ import com.liferay.util.bridges.mvc.MVCPortlet;
 public class new4 extends MVCPortlet {
  
 
-System.out.println("Dont print this");
-
 }
